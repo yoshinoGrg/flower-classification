@@ -17,8 +17,4 @@ This project is a machine learning–based flower classification system that pre
 
 ## 📂 Project Structure
 
-flower/
-├── train/        # Training images (4 classes × 20 images)
-├── test/         # Test images (4 classes × 5 images)
-├── check/        # Custom images for prediction (any flower)
-└── README.md
+This structure separates training, testing, and inference data for clarity and reproducibility.
