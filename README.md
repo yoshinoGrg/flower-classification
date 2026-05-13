@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌸 Flower Classification using Machine Learning
 
 This project is a machine learning–based flower classification system that predicts the flower category from an input image.
